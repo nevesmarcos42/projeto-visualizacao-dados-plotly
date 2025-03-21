@@ -15,7 +15,7 @@ Este projeto demonstra como criar um gráfico interativo de linha utilizando a b
 ## Instalação
 Clone o repositório e instale a biblioteca necessária:
 ```sh
-git clone https://github.com/seu-usuario/projeto-visualizacao-dados-plotly.git
+git clone https://github.com/nevesmarcos42/projeto-visualizacao-dados-plotly.git
 cd projeto-visualizacao-dados-plotly
 pip install plotly
 
